@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fazlielektrikaydinlatma.com.tr/sitemap.xml
